@@ -10,7 +10,7 @@ Basically I have included every single MYSQL
 excercise we've had in the program, I will be
 updating it as there are some not solved.
 
-To use is you need to have the data bases we've
+nOW, To use iT you need to have the data bases we've
 worked with...
 Maybe I later will include those.
 
